@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0136-single-number) |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
+| [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
+| [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
