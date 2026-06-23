@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0136-single-number) |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
+## Math
+|  |
+| ------- |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 <!---LeetCode Topics End-->
