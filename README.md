@@ -43,13 +43,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
