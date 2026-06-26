@@ -4,6 +4,7 @@ class Solution {
     int high = s.length;
     List<int> ans=[];
     for(int i =0;i<s.length;i++){
+        
         if(s[i]=='I'){
             ans.add(low);
             low++;
