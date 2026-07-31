@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
+| [3794-reverse-string-prefix](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3794-reverse-string-prefix](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
