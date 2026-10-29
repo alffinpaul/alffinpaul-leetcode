@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Counting
@@ -73,4 +74,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
