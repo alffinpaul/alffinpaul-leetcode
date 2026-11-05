@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0136-single-number) |
 | [0942-di-string-match](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
+| [1929-concatenation-of-array](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Bit Manipulation
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
