@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2716-minimize-string-length](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2716-minimize-string-length) |
 | [3110-score-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3794-reverse-string-prefix) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [2716-minimize-string-length](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2716-minimize-string-length) |
 <!---LeetCode Topics End-->
