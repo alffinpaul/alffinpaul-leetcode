@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1528-shuffle-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3794-reverse-string-prefix) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1929-concatenation-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2716-minimize-string-length](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Queue
 |  |
 | ------- |
