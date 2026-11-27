@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0338-counting-bits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0067-add-binary) |
 | [1952-three-divisors](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/alffinpaul/alffinpaul-leetcode/tree/master/3498-reverse-degree-of-a-string) |
